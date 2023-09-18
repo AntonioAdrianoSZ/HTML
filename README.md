@@ -1,3 +1,5 @@
+Index.html
+
 <!DOCTYPE html>
 <html lang="pt-br">
 	
@@ -41,6 +43,15 @@
 
 		<p style="font-size: 15px; text-align: left";><strong>Observação:</strong> todos os tópicos escritos com a cor verde, foram feitos por Antonio Henrique e todos os tópicos com a cor amarela foram feitos pelo Lucas Da Silva.</p>
 	</body>
-
-
 </html>
+
+Style.css
+
+body {
+	background: #20B2AA
+}
+
+p {
+	text-align: center; font-size: 40px
+}
+
